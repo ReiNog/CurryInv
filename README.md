@@ -4,10 +4,10 @@
 
 Curry Investments is an investment management platform that implements a long term, low turnover asset allocation strategy.
 ________________________________________________________________________________________________________________________________________________________________
-**I am at the first steps of a very long devlopment project. Expect to see new code every week and lots of changes to the codes already published.**
-**At this stage I am concerned with building the MVP of the platform for personnal use. **
-*The code (mostly) works, but it is not production ready from a professional development point of view.*
-*Important things like unit tests, exception handling, logs, access management etc will be added along the way.*
+**I am at the first steps of a very long devlopment project. Expect to see new code every week and lots of changes to the codes already published.**<br>
+**At this stage I am concerned with building the MVP of the platform for personnal use. **<br>
+*The code (mostly) works, but it is not production ready from a professional development point of view.*<br>
+*Important things like unit tests, exception handling, logs, access management etc will be added along the way.*<br>
 
 _________________________________________________________________________________________________________________________________________________________________
 
