@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/17954310/183092181-587c33ef-6f24-4ea4-967b-88a9badfe290.png)" alt="Curry Invest" width="200" height="200" />
+<img src="https://user-images.githubusercontent.com/17954310/183092181-587c33ef-6f24-4ea4-967b-88a9badfe290.png" alt="Curry Invest" width="200" height="200" />
 
 # Curry Investiments
 
